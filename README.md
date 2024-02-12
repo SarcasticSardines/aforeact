@@ -11,8 +11,9 @@
 
 # To Re-Install Node Modules and Tailwind Functionality 
 In Terminal: 
->npm install react-bootstrap bootstrap
->npm install -D tailwindcss
->npx tailwindcss init
->npm install flowbite flowbite-react
->npm run start
+1. >npm install react-bootstrap bootstrap
+2. >npm install -D tailwindcss
+3. >npx tailwindcss init
+4. >npm install flowbite flowbite-react
+5. >cd aforeact
+6. >npm run start
